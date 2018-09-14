@@ -1,0 +1,11 @@
+C:\MT\Pers\RnD\FactoryVsStrategy\FactoryVsStrategy\obj\Debug\netcoreapp2.0\FactoryVsStrategy.csprojAssemblyReference.cache
+C:\MT\Pers\RnD\FactoryVsStrategy\FactoryVsStrategy\obj\Debug\netcoreapp2.0\FactoryVsStrategy.csproj.CoreCompileInputs.cache
+C:\MT\Pers\RnD\FactoryVsStrategy\FactoryVsStrategy\obj\Debug\netcoreapp2.0\FactoryVsStrategy.AssemblyInfoInputs.cache
+C:\MT\Pers\RnD\FactoryVsStrategy\FactoryVsStrategy\obj\Debug\netcoreapp2.0\FactoryVsStrategy.AssemblyInfo.cs
+C:\MT\Pers\RnD\FactoryVsStrategy\FactoryVsStrategy\bin\Debug\netcoreapp2.0\FactoryVsStrategy.deps.json
+C:\MT\Pers\RnD\FactoryVsStrategy\FactoryVsStrategy\bin\Debug\netcoreapp2.0\FactoryVsStrategy.runtimeconfig.json
+C:\MT\Pers\RnD\FactoryVsStrategy\FactoryVsStrategy\bin\Debug\netcoreapp2.0\FactoryVsStrategy.runtimeconfig.dev.json
+C:\MT\Pers\RnD\FactoryVsStrategy\FactoryVsStrategy\bin\Debug\netcoreapp2.0\FactoryVsStrategy.dll
+C:\MT\Pers\RnD\FactoryVsStrategy\FactoryVsStrategy\bin\Debug\netcoreapp2.0\FactoryVsStrategy.pdb
+C:\MT\Pers\RnD\FactoryVsStrategy\FactoryVsStrategy\obj\Debug\netcoreapp2.0\FactoryVsStrategy.dll
+C:\MT\Pers\RnD\FactoryVsStrategy\FactoryVsStrategy\obj\Debug\netcoreapp2.0\FactoryVsStrategy.pdb
